@@ -10,7 +10,7 @@ Il contient un minimum de données pour remplir ta base.
 
 3 - Maintenant que ta base est créée et remplie, tu dois créer une page *public/index.php* qui va :
 
-- Se connecter à la base de données via pdo (à modifier en mysqli...)
+- Se connecter à la base de données via pdo
 - Lire le contenu de la base de données
 - Afficher toutes les données (contact + civilité) ordonnées par nom croissant dans un tableau HTML
 
