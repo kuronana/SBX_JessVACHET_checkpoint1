@@ -6,7 +6,7 @@ Dans ce checkpoint, tu vas devoir créer un début de répertoire de contacts.
 Fais attentions aux contraintes comme le nom de la base de données qui doit se nommer *checkpoint1*, ainsi qu'au nom des champs.
 
 2 - Une fois cette base de données créée, tu devras importer dedans le contenu du fichier SQL *data/contact.sql* joint. 
-Il contient un minimum de données pour remplir ta base. *Si tu n'as pas été rigoureux précedemment, tu risque de rencontrer des problèmes lors de l'import !*
+Il contient un minimum de données pour remplir ta base. *Si tu n'as pas été rigoureux précedemment, tu risques de rencontrer des problèmes lors de l'import !*
 
 3 - Maintenant que ta base est créée et remplie, tu dois créer une page *public/index.php* qui va :
 
@@ -19,9 +19,9 @@ le tableau HTML devra avoir les entêtes suivants :
     - Civilité
     - NOM Prénom
 
-4 - La colonne NOM Prénom sera le résultat de l'appel d'une fonction php nommée `fullname` et qui devra être créée dans le fichier *src/functions.php*. 
+4 - La colonne NOM Prénom sera le résultat de l'appel d'une fonction PHP nommée `fullname` et qui devra être créée dans le fichier *src/functions.php*. 
 Cette dernière prendra 2 paramètres en entrée (le prénom et le nom) et retournera les deux concaténés avec un espace
-pour les séparer (pense au typage). Le nom devra être entierement en majuscule et le prénom aura uniquement la 1ere lettre en majuscule (utilise des fonctions natives de PHP).
+pour les séparer (pense au typage). Le nom devra être entièrement en majuscule et le prénom aura uniquement la 1ere lettre en majuscule (utilise des fonctions natives de PHP).
 
 5 - Ensuite, il te faudra créer un formulaire élégant permettant de créer un nouveau contact. Le nom des champs de formulaire 
 devra correspondre aux noms des champs de base de données.
