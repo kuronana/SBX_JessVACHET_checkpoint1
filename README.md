@@ -3,7 +3,7 @@ Dans ce checkpoint, tu vas devoir créer un début de répertoire de contacts.
 **Etapes :**
 
 1 - Pour cela, nous te fournissons un MCD *model.png*, à toi de créer physiquement la base de données correspondante (aucune restriction sur les outils).
-Fais attentions aux contraintes comme le nom de la base de données qui doit se nommer *checkpoint1*, ainsi qu'au nom des champs.
+Fais attention aux contraintes comme le nom de la base de données qui doit se nommer *checkpoint1*, ainsi qu'au nom des champs.
 
 2 - Une fois cette base de données créée, tu devras importer dedans le contenu du fichier SQL *data/contact.sql* joint. 
 Il contient un minimum de données pour remplir ta base. *Si tu n'as pas été rigoureux précedemment, tu risques de rencontrer des problèmes lors de l'import !*
@@ -31,6 +31,6 @@ devra correspondre aux noms des champs de base de données.
 
 7 - Ton code devra respecter les bonnes pratiques et en l'occurence les PSR-1 et PSR-2 pour la partie PHP.
 
-8 - Ton code devra être pushé sur le repository du projet. Sur une branche portant tes prénom et NOM séparés par un *underscore* (ex. : Elisa_DUPONT).. Pense aux commits **atomiques**.
+8 - Ton code devra être pushé sur le repository du projet. Sur une branche portant ton prénom et NOM, séparés par un *underscore* (ex. : Elisa_DUPONT).. Pense aux commits **atomiques**.
 
 Bon courage ! 
