@@ -31,6 +31,6 @@ devra correspondre aux noms des champs de base de données.
 
 7 - Ton code devra respecter les bonnes pratiques et en l'occurence les PSR-1 et PSR-2 pour la partie PHP.
 
-8 - Ton code devra être pushé sur le repository du projet. Sur une branche portant ton prénom et NOM, séparés par un *underscore* (ex. : Elisa_DUPONT).. Pense aux commits **atomiques**.
+8 - Ton code devra être pushé sur le repository du projet. Sur une branche portant ta ville ainsi que ton prénom et NOM, séparés par un *underscore* (ex. : ORLEANS_Elisa_DUPONT).. Pense aux commits **atomiques**.
 
 Bon courage ! 
