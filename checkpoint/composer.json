@@ -1,0 +1,15 @@
+{
+    "name": "wilder/checkpoint",
+    "authors": [
+        {
+            "name": "Jess Vachet",
+            "email": "jess94i@hotmail.fr"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "": "src/"
+        }
+    }
+}
